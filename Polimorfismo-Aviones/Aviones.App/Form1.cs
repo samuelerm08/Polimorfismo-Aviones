@@ -30,7 +30,7 @@ namespace Aviones.App
                 LineaAerea = "Aerolineas Argentinas"
             };
             
-            MessageBox.Show($"{a}");          
+            MessageBox.Show(a.ToString());          
         }
     }
 }
