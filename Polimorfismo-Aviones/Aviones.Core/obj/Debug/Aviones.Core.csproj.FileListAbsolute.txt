@@ -1,0 +1,6 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.Core\bin\Debug\Aviones.Core.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.Core\bin\Debug\Aviones.Core.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.Core\obj\Debug\Aviones.Core.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.Core\obj\Debug\Aviones.Core.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.Core\obj\Debug\Aviones.Core.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.Core\obj\Debug\Aviones.Core.pdb

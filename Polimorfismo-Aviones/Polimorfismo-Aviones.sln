@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviones.Core", "Aviones.Core\Aviones.Core.csproj", "{0D36B678-FE39-4ED1-9C39-C4F6838CC927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviones.App", "Aviones.App\Aviones.App.csproj", "{43A7C153-AB2D-4285-B127-BAAAE9F211BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D36B678-FE39-4ED1-9C39-C4F6838CC927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D36B678-FE39-4ED1-9C39-C4F6838CC927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D36B678-FE39-4ED1-9C39-C4F6838CC927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D36B678-FE39-4ED1-9C39-C4F6838CC927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A7C153-AB2D-4285-B127-BAAAE9F211BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A7C153-AB2D-4285-B127-BAAAE9F211BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A7C153-AB2D-4285-B127-BAAAE9F211BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A7C153-AB2D-4285-B127-BAAAE9F211BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {403D912F-7766-460E-A778-66B2C6892F89}
+	EndGlobalSection
+EndGlobal

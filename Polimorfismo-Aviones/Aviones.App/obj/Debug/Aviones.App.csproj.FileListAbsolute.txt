@@ -1,0 +1,14 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\bin\Debug\Aviones.App.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\bin\Debug\Aviones.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\bin\Debug\Aviones.App.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\bin\Debug\Aviones.Core.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\bin\Debug\Aviones.Core.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.Form1.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.csproj.CopyComplete
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\Polimorfismo-Aviones\Aviones.App\obj\Debug\Aviones.App.pdb
