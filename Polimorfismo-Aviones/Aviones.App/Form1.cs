@@ -21,8 +21,15 @@ namespace Aviones.App
 
         private void MostrarAvion(object sender, EventArgs e)
         {
-            AvionComercial a = new AvionComercial("Ramón Fisherman", "Juan Patricio", "Patricia Ramos", 300, "Aerolineas Argentinas");
-
+            AvionComercial a = new AvionComercial()
+            {
+                Piloto = "Ramón Fisherman", 
+                Copiloto = "Juan Patricio", 
+                Azafata = "Patricia Ramos",
+                Capacidad = 300, 
+                LineaAerea = "Aerolineas Argentinas"
+            };
+            
             MessageBox.Show($"{a}");          
         }
     }
