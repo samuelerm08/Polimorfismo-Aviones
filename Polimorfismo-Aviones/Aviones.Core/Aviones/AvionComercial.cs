@@ -11,6 +11,7 @@ namespace Aviones.Core.Aviones
         public int Capacidad { get; set; }
         public string LineaAerea { get; set; }
         
+        //Sobreescritura a metodos heredados
         public override string Aterriza()
         {
             return "Avion Aterrizando";
@@ -21,6 +22,7 @@ namespace Aviones.Core.Aviones
             return "Avion Despegando";
         }
         
+        //Sobrecarga a metodo virtual (VerPropiedades)
         public override string ToString()
         {
             return base.VerPropiedades() + $"Azafata: {Azafata}\n" +
