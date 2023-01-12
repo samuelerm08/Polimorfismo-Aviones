@@ -26,11 +26,5 @@ namespace Aviones.Core.Aviones
         {
             return "Avion Despegando";
         }
-
-        public override string ToString()
-        {
-            return base.VerPropiedades() + $"Peso: {Peso}\n" +
-                                           $"Tipo Mercaderia: {TipoMercaderia}";
-        }
     }
 }
