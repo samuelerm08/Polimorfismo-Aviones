@@ -7,13 +7,7 @@ using System.Threading.Tasks;
 namespace Aviones.Core.Aviones
 {
     public class AvionCarga : Avion
-    {
-        public AvionCarga(string piloto, string copiloto, string peso, string tipoMercaderia) : base(piloto, copiloto)
-        {
-            Peso = peso;
-            TipoMercaderia = tipoMercaderia;
-        }
-
+    {        
         public string Peso { get; set; }
         public string TipoMercaderia { get; set; }
 
