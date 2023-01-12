@@ -23,10 +23,7 @@ namespace Aviones.App
         {
             AvionComercial a = new AvionComercial("Ramón Fisherman", "Juan Patricio", "Patricia Ramos", 300, "Aerolineas Argentinas");
 
-            MessageBox.Show($"{a}");
-
-            AvionCarga ac = new AvionCarga("Enrique Ramos", "David Ignacio", "300", "Carga Extrema");
-            MessageBox.Show($"{ac}");
+            MessageBox.Show($"{a}");          
         }
     }
 }
