@@ -25,7 +25,7 @@ namespace Aviones.Core.Aviones
         //Sobrecarga a metodo virtual (VerPropiedades)
         public override string ToString()
         {
-            return base.ToString() + $"Azafata: {Azafata}\n" +
+            return base.Imprimir() + $"Azafata: {Azafata}\n" +
                                             $"Capacidad: {Capacidad}\n" +
                                             $"Linea Aerea: {LineaAerea}";
         }
