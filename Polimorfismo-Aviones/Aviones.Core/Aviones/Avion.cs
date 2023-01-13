@@ -19,7 +19,7 @@ namespace Aviones.Core.Aviones
         public abstract string Aterriza();
 
         //Metodo virtual
-        public virtual string ToString()
+        public virtual string Imprimir()
         {
             return $"Detalles Avion:\n" +
                    $"\nPiloto: {Piloto}\n" +
