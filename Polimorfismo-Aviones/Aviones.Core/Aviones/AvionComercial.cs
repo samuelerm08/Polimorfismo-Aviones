@@ -22,7 +22,7 @@ namespace Aviones.Core.Aviones
             return "Avion Despegando";
         }
         
-        //Sobreescritura a metodo virtual (Imprimir)
+        //Sobreescritura a metodo virtual usando ToString() (Imprimir)
         public override string ToString()
         {
             return base.Imprimir() + $"Azafata: {Azafata}\n" +
